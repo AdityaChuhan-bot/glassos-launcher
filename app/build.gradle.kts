@@ -91,7 +91,7 @@ dependencies {
     implementation("androidx.media:media:1.7.0")
 
     // Image Loading
-    implementation("io.coil-kt:coil-compose:3.0.0")
+    implementation("io.coil-kt:coil-compose:2.6.0")
 
     // Testing
     testImplementation("junit:junit:4.13.2")
